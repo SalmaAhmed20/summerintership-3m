@@ -1,0 +1,20 @@
+Remote Login Credentials
+========================
+
+Username: admin
+Password: P@ssw0rd123
+Server: 192.168.1.100
+Port: 22
+Protocol: SSH
+
+Username: user1
+Password: SecurePass456
+Server: remote.example.com
+Port: 22
+Protocol: SSH
+
+Username: developer
+Password: DevAccess789
+Server: dev-server.local
+Port: 3389
+Protocol: RDP
