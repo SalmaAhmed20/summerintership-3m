@@ -1,1 +1,2 @@
-file 6 conflict
+from file 6 
+from file 6 part 2
